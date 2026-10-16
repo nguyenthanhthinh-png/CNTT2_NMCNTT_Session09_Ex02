@@ -1,0 +1,5 @@
+1. Báo cáo phân tích I/O
+Thành phần	Nội dung
+Input	Văn bản Markdown thô gồm tiêu đề, hướng dẫn, lệnh Terminal, code Python, bảng so sánh và danh sách kiểm tra.
+Processing	Trình phân tích Markdown xử lý tiêu đề, Inline Code, Code Block, bảng, Task List và ký tự Escape.
+Output	Tài liệu được render rõ ràng, có phân cấp tiêu đề, code Python tô màu cú pháp, bảng dễ đọc và checklist kiểm tra thiết bị
